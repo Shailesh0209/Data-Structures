@@ -6,7 +6,9 @@
 
 [Colab Notebook IITM](https://drive.google.com/drive/folders/173kwFAuuIntZLWRbDyTCpEX7dJ2czuvn)
 
+```
 Quiz1:  PSOSM,       PDSA, CT
 Quiz2:               PDSA, CT
 EndSem: PSOSM(50),   PDSA, CT, IBD
 OPPE:                PDSA(20), IBD(50)
+```
