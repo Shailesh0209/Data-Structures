@@ -12,4 +12,4 @@ Quiz2:               PDSA, CT
 EndSem: PSOSM(50),   PDSA, CT, IBD
 OPPE:                PDSA(20), IBD(50)
 ```
-## [NeetCode 75, that's it](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit?gid=0#gid=0)
+## [NeetCode 75, Single Shot Job done](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit?gid=0#gid=0)
